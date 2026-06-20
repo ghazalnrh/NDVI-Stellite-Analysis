@@ -22,6 +22,14 @@ The goal of this study is to monitor environmental changes and vegetation health
 - Copernicus Browser: Data sourcing (Sentinel-2 L2A).
 - Python & GPT-5.5: Image processing, Histogram generation, and Statistical analysis.
 
+## Technologies
+
+- Python
+- NumPy
+- OpenCV
+- Matplotlib
+- Sentinel‑2 Satellite Imagery
+- NDVI (Normalized Difference Vegetation Index)
 ---
 
 ## 🖼 Samples 
